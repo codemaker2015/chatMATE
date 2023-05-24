@@ -1,0 +1,80 @@
+[
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1716319108,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__stripe_mid",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "98c1168e-2e01-470b-8fc4-dcd4ee26e5e5b0cf6d"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1719343118.906452,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.1.1595099070.1683520413"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1716319037.167754,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "CmnJiQnQOqyXXZgSJDTEoBjTDviNqHVgjlmcWrkGXkMlwEIZoNdiMiMOeVRWpMQCXPGSBZrhVNgTOSAHScnjzCrdQTXPnzaHsiTmwunyfHmcIFGzExefVTYuUtoOojXu"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1684784908,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__stripe_sid",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "97c1d81b-bebe-4c17-ab80-198305e2166ee1b1cd"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1719343118.906195,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga_8Q63TH4CSL",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GS1.1.1684782899.3.1.1684783118.0.0.0"
+    },
+    {
+        "domain": "huggingface.co",
+        "expirationDate": 1716405518.753694,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "hf-chat",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "11a11580-2ef2-4c1b-bb63-12884b21b89a"
+    }
+]
